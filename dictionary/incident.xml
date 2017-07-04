@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true" audit="true" extends="task" label="Incident" max_length="40" name="incident" sizeclass="53" text_index="true" type="collection">
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="test123" max_length="100" name="x_129370_changes_t_test123" type="string"/>
+    </element>
+</database>
